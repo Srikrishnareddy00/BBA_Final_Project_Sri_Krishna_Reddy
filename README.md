@@ -8,8 +8,16 @@ through an analysis of Walmart's financial reports and press releases, and explo
 e-commerce, technology, and other SCRM practices led to sales growth and reinforced community
 trust and resilience. The methodology involves a review of secondary data, including financials, capital
 expenditures, operating cash flow, and investments.
+
+1) Comparision between Walmart Sales of US Vs International Sales
 ![image](https://github.com/Srikrishnareddy00/BBA_Final_Project_Sri_Krishna_Reddy/assets/152496878/f0315e9a-a9e9-46ce-ab4d-61271e350a16)
+The sales data was taken from walmart report and the increase for US is fairly linear compared to the international sales where we see a dip because walmart started to optimize 
+
+
+2) 
 ![image](https://github.com/Srikrishnareddy00/BBA_Final_Project_Sri_Krishna_Reddy/assets/152496878/473c4956-3396-4117-a527-329b5f1ba007)
+
+3)
 ![image](https://github.com/Srikrishnareddy00/BBA_Final_Project_Sri_Krishna_Reddy/assets/152496878/0ed60239-fa15-46d2-8b02-b8264f11b7f7)
 
 
