@@ -15,12 +15,6 @@ expenditures, operating cash flow, and investments.
 
 Key points:
 
-> Net Sales (US) is represented by the blue line.
-
-> Net Sales (International) is represented by the orange line.
-
-> The sales values are in billions of dollars.
-
 2020: US net sales were $341 billion, and international net sales were $120 billion.
 
 2021: US net sales increased to $370 billion, while international net sales slightly increased to $121 billion.
@@ -38,12 +32,6 @@ The graph demonstrates a consistent growth in Walmart's US net sales over the fo
 ![image](https://github.com/Srikrishnareddy00/BBA_Final_Project_Sri_Krishna_Reddy/assets/152496878/473c4956-3396-4117-a527-329b5f1ba007)
 
  Key points:
-
-> Operating Cash Flow is shown with blue bars.
- 
-> Revenue Growth is shown with green bars.
-
-> For each year:
 
 2023: Operating Cash Flow is 28.8 billion dollars with a Revenue Growth of 6.7%.
 
