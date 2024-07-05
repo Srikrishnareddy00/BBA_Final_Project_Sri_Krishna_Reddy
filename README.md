@@ -15,13 +15,10 @@ expenditures, operating cash flow, and investments.
 
 Key points:
 
-2020: US net sales were $341 billion, and international net sales were $120 billion.
-
-2021: US net sales increased to $370 billion, while international net sales slightly increased to $121 billion.
-
-2022: US net sales rose to $393 billion, whereas international net sales decreased to $100 billion.
-
-2023: US net sales further increased to $421 billion, with international net sales marginally increasing to $101 billion.
+* 2020: US net sales were $341 billion, and international net sales were $120 billion.
+* 2021: US net sales increased to $370 billion, while international net sales slightly increased to $121 billion.
+* 2022: US net sales rose to $393 billion, whereas international net sales decreased to $100 billion.
+* 2023: US net sales further increased to $421 billion, with international net sales marginally increasing to $101 billion.
 
 The graph demonstrates a consistent growth in Walmart's US net sales over the four-year period, while international net sales show a slight decline and then a minor increase towards the end of the period.
 
