@@ -1,3 +1,9 @@
+
+Project Overview
+* Data Cleaning : Excel
+* Data Visualization: Seaborn
+
+
 I wrote my final thesis to investigate Supply Chain Risk Management During Global Crisis of Walmart during the Pandemic. 
 The 2020 pandemic exposed vulnerabilities in many companies' SCRM strategies, leading to closures,
 but Walmart Inc. demonstrated resilience, increasing revenue and customer reputation, highlighting the
@@ -30,23 +36,22 @@ The graph demonstrates a consistent growth in Walmart's US net sales over the fo
 
  Key points:
 
-2023: Operating Cash Flow is 28.8 billion dollars with a Revenue Growth of 6.7%.
-
-2022: Operating Cash Flow is 24.2 billion dollars with a Revenue Growth of 2.3%.
-
-2021: Operating Cash Flow is 36.1 billion dollars with a Revenue Growth of 6.8%.
-
-2020: Operating Cash Flow is 25.3 billion dollars with a Revenue Growth of 1.9%.
-
-2019: Operating Cash Flow is 27.8 billion dollars with a Revenue Growth of 2.9%.
+* 2023: Operating Cash Flow is 28.8 billion dollars with a Revenue Growth of 6.7%.
+* 2022: Operating Cash Flow is 24.2 billion dollars with a Revenue Growth of 2.3%.
+* 2021: Operating Cash Flow is 36.1 billion dollars with a Revenue Growth of 6.8%.
+* 2020: Operating Cash Flow is 25.3 billion dollars with a Revenue Growth of 1.9%.
+* 2019: Operating Cash Flow is 27.8 billion dollars with a Revenue Growth of 2.9%.
 
 The graph illustrates the relationship between Walmart's operating cash flow and its revenue growth over the five-year period, showing fluctuations in both metrics.
 
 
-
-3)
+3) graphs represent Walmart's allocation of capital expenditure over recent years, focusing on supply chain, omni-channel, technology, and other areas.
+   
 ![image](https://github.com/Srikrishnareddy00/BBA_Final_Project_Sri_Krishna_Reddy/assets/152496878/0ed60239-fa15-46d2-8b02-b8264f11b7f7)
 
+The top graph indicates a steady and significant increase in Walmart's total capital expenditure from 2019 through the projected 2024.
+
+The bottom graph shows that while the capital expenditure in the US has grown substantially, the international expenditure has remained relatively stable over the same period. This highlights Walmart's focus on enhancing its US operations significantly more than its international operations.
 
 
 
