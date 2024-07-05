@@ -14,8 +14,22 @@ expenditures, operating cash flow, and investments.
 The sales data was taken from walmart report and the increase for US is fairly linear compared to the international sales where we see a dip because walmart started to optimize 
 
 
-2) 
+2)  The graph below represents Walmart's Operating Cash Flow in billions of dollars and Revenue Growth in percentage from the years 2019 to 2023.
 ![image](https://github.com/Srikrishnareddy00/BBA_Final_Project_Sri_Krishna_Reddy/assets/152496878/473c4956-3396-4117-a527-329b5f1ba007)
+
+Key points:
+
+Operating Cash Flow is shown with blue bars.
+Revenue Growth is shown with green bars.
+For each year:
+
+2023: Operating Cash Flow is 28.8 billion dollars with a Revenue Growth of 6.7%.
+2022: Operating Cash Flow is 24.2 billion dollars with a Revenue Growth of 2.3%.
+2021: Operating Cash Flow is 36.1 billion dollars with a Revenue Growth of 6.8%.
+2020: Operating Cash Flow is 25.3 billion dollars with a Revenue Growth of 1.9%.
+2019: Operating Cash Flow is 27.8 billion dollars with a Revenue Growth of 2.9%.
+The graph illustrates the relationship between Walmart's operating cash flow and its revenue growth over the five-year period, showing fluctuations in both metrics.
+
 
 3)
 ![image](https://github.com/Srikrishnareddy00/BBA_Final_Project_Sri_Krishna_Reddy/assets/152496878/0ed60239-fa15-46d2-8b02-b8264f11b7f7)
